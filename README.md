@@ -7,7 +7,7 @@ in collaboration with UTSA
 #### Purpose
 This application Makes it easy to view every hour of the buisness day and add events to the calendar. All events are saved locally and are there for you when you come back to it.
 <img src="./Assets/Acceptance.png" alt= "the working paramiters for this project" title="Acceptance">
-<img src="./Assets/Screenshot.png" alt="The Code" title="The Code">
+<img src="./Assets/Prompts.png" alt="The Code" title="The Code">
 <img src="./Assets/README.png" alt="README" title="README">
 
 ## Usage
