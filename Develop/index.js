@@ -1,6 +1,6 @@
 
 // Function call to load app
-init();
+
 const fs = require('fs'); 
 const inquirer = require('inquirer'); 
 

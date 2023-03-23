@@ -2,7 +2,6 @@
 const generateMarkdown = data => {
   return `# ${data.title}
   ![Github licence](http://img.shields.io/badge/license-${data.license}-blue.svg)
-  
   ## Description 
   ${data.description}
   ## Table of Contents
@@ -25,7 +24,7 @@ const generateMarkdown = data => {
   ## Tests
   ${data.test}
   ## Questions
- You can view more of my projects at https://github.com/${data.github}.
+ You can view more of my at https://github.com/${data.github}.
 `;
 }
 module.exports = generateMarkdown;
