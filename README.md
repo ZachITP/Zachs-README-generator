@@ -37,7 +37,7 @@ Thank you UTSA tutor Alistair Rowden for answering some questions regarding this
 ## Video Walkthrough 
 Checkout a walkthrough of the project here
 
-<iframe src="https://drive.google.com/file/d/1fO1kUB2wKjkbTjk0eNVzTqWhYW0pO6IY/preview" width="640" height="480"></iframe>
+<img src="./Assets/Walk-through-demo.webm" alt= "Demo Video" title="Demo Video">
 
 
 
