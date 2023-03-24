@@ -120,13 +120,13 @@ const questions = () => {
     {
         type: 'input',
         name: 'test', 
-        message: 'What command should be run to run tests?',
+        message: 'What command should be used to run tests?',
         default: 'npm test'
     },
     {
         type: 'input',
         name: 'contributors',
-        message: 'What does the user need to know about contributing to the repo?'
+        message: 'How would the user get in contact with you to contribute to the repo?'
     }
 ]);
 };
@@ -140,7 +140,7 @@ const writeFile = data => {
             return;
         // README has been created 
         } else {
-            console.log("Narly Dude!!! The README has been created")
+            console.log("Narly Dude!!! The README has been created, you should see it in your project folder in the Explorer window")
         }
     })
 }; 

@@ -24,7 +24,7 @@ const generateMarkdown = data => {
   ## Tests
   ${data.test}
   ## Questions
- You can view more of my at https://github.com/${data.github}.
+ You can view more of my work at https://github.com/${data.github}.
 `;
 }
 module.exports = generateMarkdown;

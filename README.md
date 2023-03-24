@@ -4,10 +4,12 @@
 #### By Zach Hanson 
 in collaboration with UTSA
 
-#### Purpose
-This application Makes it easy to view every hour of the buisness day and add events to the calendar. All events are saved locally and are there for you when you come back to it.
+## Purpose
+This application Makes it easy to Create your own README file by simply answering a few questions.
+
+
 <img src="./Assets/Acceptance.png" alt= "the working paramiters for this project" title="Acceptance">
-<img src="./Assets/Prompts.png" alt="The Code" title="The Code">
+<img src="./Assets/questions.png" alt="The Code" title="The Code">
 <img src="./Assets/README.png" alt="README" title="README">
 
 ## Usage
@@ -21,20 +23,21 @@ This application Makes it easy to view every hour of the buisness day and add ev
 
 ## Technologies Used
 
-Node js
+Node js, 
 JavaScript,
+Inquirer package
 
 
 
 ## Credits
-UTSA tutor Alistair Rowden for assisting me with this project
+Thank you UTSA tutor Alistair Rowden for answering some questions regarding this project.
 
 
 
 ## Video Walkthrough 
 Checkout a walkthrough of the project here
 
-place holder text
+<iframe src="https://drive.google.com/file/d/1fO1kUB2wKjkbTjk0eNVzTqWhYW0pO6IY/preview" width="640" height="480"></iframe>
 
 
 
